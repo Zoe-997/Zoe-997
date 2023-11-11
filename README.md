@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Software engineer with 4+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
+
+📚 Writing Besides developing, I also run a Youtube Channel.
